@@ -24,7 +24,7 @@ Your description goes here.
 
 ## Submission
 1. Log in to GitHub.
-2. Fork *this* repository, not another student’s, at [https://github.com/code-warrior/spring-2018-mmp100--project-1--audio](https://github.com/code-warrior/spring-2018-mmp100--project-1--audio).
+2. Fork *this* repository, not another student’s, at [https://github.com/code-warrior/fall-2018-mmp100--project-3--audio](https://github.com/code-warrior/fall-2018-mmp100--project-3--audio).
 3. Clone your fork locally.
 4. Checkout your personal branch, the one with your name.
 5. Edit `README.md` according to the directions above.
