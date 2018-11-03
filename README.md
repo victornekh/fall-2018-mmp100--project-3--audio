@@ -1,6 +1,10 @@
 # Project 3 — Audio
 For this project, you’ll use Audacity to create a 90-second audio collage that is based on a combination of your own audio samples plus free audio samples from [Archive.org](https://archive.org/details/audio), [Freesound](https://freesound.org), [CCMixter](http://ccmixter.org), and/or [SoundCloud](https://soundcloud.com/search/sounds?filter.license=to_modify_commercially). Your collage can be anything you want: music, nature, interview, etc. We’ll listen to your work in class on Saturday, 17 November 2018.
 
+## Before You Begin
+* Make sure the names of all files and folders are in **lower case**.  
+* Make sure the names of all files and folders use **only dashes** to delimit words.  
+
 ## Instructions
 1. Mixdown your project to a stereo file in MP3 format. For example, if you create a project called `stairway-to-heaven`, then you’d name the file `stairway-to-heaven.mp3`.
 2. Create a folder in your MMP server account for your project. For example, if your name was Jimmy Page, you’d create a folder called [`http://mmp.bmcc.cuny.edu/jimmy.page/fall-2018/mmp-100/project-3/`](http://mmp.bmcc.cuny.edu/jimmy.page/fall-2018/mmp-100/project-3/).
